@@ -1,0 +1,30 @@
+E:\J4ckware\Entidades\bin\Debug\Entidades.dll
+E:\J4ckware\Entidades\bin\Debug\Entidades.pdb
+E:\J4ckware\Entidades\obj\Debug\ResolveAssemblyReference.cache
+E:\J4ckware\Entidades\obj\Debug\Entidades.dll
+E:\J4ckware\Entidades\obj\Debug\Entidades.pdb
+F:\J4ckware\Entidades\bin\Debug\Entidades.dll
+F:\J4ckware\Entidades\bin\Debug\Entidades.pdb
+F:\J4ckware\Entidades\obj\Debug\ResolveAssemblyReference.cache
+F:\J4ckware\Entidades\obj\Debug\Entidades.dll
+F:\J4ckware\Entidades\obj\Debug\Entidades.pdb
+F:\Progamacion N capas - Java\Entidades\bin\Debug\Entidades.dll
+F:\Progamacion N capas - Java\Entidades\bin\Debug\Entidades.pdb
+F:\Progamacion N capas - Java\Entidades\obj\Debug\ResolveAssemblyReference.cache
+F:\Progamacion N capas - Java\Entidades\obj\Debug\Entidades.dll
+F:\Progamacion N capas - Java\Entidades\obj\Debug\Entidades.pdb
+F:\Progamacion N capas - MySQL\Entidades\bin\Debug\Entidades.dll
+F:\Progamacion N capas - MySQL\Entidades\bin\Debug\Entidades.pdb
+F:\Progamacion N capas - MySQL\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\Progamacion N capas - MySQL\Entidades\obj\Debug\Entidades.dll
+F:\Progamacion N capas - MySQL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Entidades\bin\Debug\Entidades.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Entidades\obj\Debug\Entidades.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Entidades\bin\Debug\Entidades.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Entidades\obj\Debug\Entidades.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Entidades\obj\Debug\Entidades.pdb

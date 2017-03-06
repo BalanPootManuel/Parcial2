@@ -1,0 +1,54 @@
+E:\J4ckware\AccesoDato\bin\Debug\AccesoDato.dll
+E:\J4ckware\AccesoDato\bin\Debug\AccesoDato.pdb
+E:\J4ckware\AccesoDato\bin\Debug\Entidades.dll
+E:\J4ckware\AccesoDato\bin\Debug\Entidades.pdb
+E:\J4ckware\AccesoDato\obj\Debug\ResolveAssemblyReference.cache
+E:\J4ckware\AccesoDato\obj\Debug\AccesoDato.dll
+E:\J4ckware\AccesoDato\obj\Debug\AccesoDato.pdb
+F:\J4ckware\AccesoDato\bin\Debug\AccesoDato.dll
+F:\J4ckware\AccesoDato\bin\Debug\AccesoDato.pdb
+F:\J4ckware\AccesoDato\bin\Debug\Entidades.dll
+F:\J4ckware\AccesoDato\bin\Debug\Entidades.pdb
+F:\J4ckware\AccesoDato\obj\Debug\ResolveAssemblyReference.cache
+F:\J4ckware\AccesoDato\obj\Debug\AccesoDato.dll
+F:\J4ckware\AccesoDato\obj\Debug\AccesoDato.pdb
+F:\Progamacion N capas - Java\AccesoDato\bin\Debug\AccesoDato.dll
+F:\Progamacion N capas - Java\AccesoDato\bin\Debug\AccesoDato.pdb
+F:\Progamacion N capas - Java\AccesoDato\bin\Debug\Entidades.dll
+F:\Progamacion N capas - Java\AccesoDato\bin\Debug\Entidades.pdb
+F:\Progamacion N capas - Java\AccesoDato\obj\Debug\ResolveAssemblyReference.cache
+F:\Progamacion N capas - Java\AccesoDato\obj\Debug\AccesoDato.dll
+F:\Progamacion N capas - Java\AccesoDato\obj\Debug\AccesoDato.pdb
+F:\Progamacion N capas - Java\AccesoDato\bin\Debug\MySql.Data.dll
+F:\Progamacion N capas - MySQL\AccesoDato\bin\Debug\AccesoDato.dll
+F:\Progamacion N capas - MySQL\AccesoDato\bin\Debug\AccesoDato.pdb
+F:\Progamacion N capas - MySQL\AccesoDato\bin\Debug\Entidades.dll
+F:\Progamacion N capas - MySQL\AccesoDato\bin\Debug\MySql.Data.dll
+F:\Progamacion N capas - MySQL\AccesoDato\bin\Debug\Entidades.pdb
+F:\Progamacion N capas - MySQL\AccesoDato\obj\Debug\AccesoDato.csprojResolveAssemblyReference.cache
+F:\Progamacion N capas - MySQL\AccesoDato\obj\Debug\AccesoDato.dll
+F:\Progamacion N capas - MySQL\AccesoDato\obj\Debug\AccesoDato.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\AccesoDato\bin\Debug\AccesoDato.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\AccesoDato\bin\Debug\AccesoDato.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\AccesoDato\bin\Debug\Entidades.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\AccesoDato\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\AccesoDato\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\AccesoDato\obj\Debug\AccesoDato.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\AccesoDato\obj\Debug\AccesoDato.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\AccesoDato\obj\Debug\AccesoDato.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\AccesoDato\bin\Debug\AccesoDato.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\AccesoDato\bin\Debug\AccesoDato.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\AccesoDato\bin\Debug\Entidades.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\AccesoDato\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\AccesoDato\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\AccesoDato\obj\Debug\AccesoDato.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\AccesoDato\obj\Debug\AccesoDato.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\AccesoDato\obj\Debug\AccesoDato.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\AccesoDato\bin\Debug\AccesoDato.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\AccesoDato\bin\Debug\AccesoDato.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\AccesoDato\bin\Debug\Entidades.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\AccesoDato\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\AccesoDato\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\AccesoDato\obj\Debug\AccesoDato.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\AccesoDato\obj\Debug\AccesoDato.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\AccesoDato\obj\Debug\AccesoDato.pdb

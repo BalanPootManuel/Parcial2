@@ -1,0 +1,117 @@
+F:\J4ckware\Presentacion\bin\Debug\Presentacion.exe
+F:\J4ckware\Presentacion\bin\Debug\Presentacion.pdb
+F:\J4ckware\Presentacion\bin\Debug\Entidades.dll
+F:\J4ckware\Presentacion\bin\Debug\Negocio.dll
+F:\J4ckware\Presentacion\bin\Debug\AccesoDato.dll
+F:\J4ckware\Presentacion\bin\Debug\Entidades.pdb
+F:\J4ckware\Presentacion\bin\Debug\Negocio.pdb
+F:\J4ckware\Presentacion\bin\Debug\AccesoDato.pdb
+F:\J4ckware\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\J4ckware\Presentacion\obj\x86\Debug\Presentacion.fMenu.resources
+F:\J4ckware\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+F:\J4ckware\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\J4ckware\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\J4ckware\Presentacion\obj\x86\Debug\Presentacion.exe
+F:\J4ckware\Presentacion\obj\x86\Debug\Presentacion.pdb
+F:\J4ckware\Presentacion\obj\x86\Debug\Presentacion.fDistrito.resources
+F:\J4ckware\Presentacion\obj\x86\Debug\Presentacion.fAmigo.resources
+F:\Progamacion N capas - Java\Presentacion\obj\x86\Debug\Presentacion.exe
+F:\Progamacion N capas - Java\Presentacion\obj\x86\Debug\Presentacion.pdb
+F:\Progamacion N capas - Java\Presentacion\bin\Debug\Presentacion.exe
+F:\Progamacion N capas - Java\Presentacion\bin\Debug\Presentacion.pdb
+F:\Progamacion N capas - Java\Presentacion\bin\Debug\Entidades.dll
+F:\Progamacion N capas - Java\Presentacion\bin\Debug\Negocio.dll
+F:\Progamacion N capas - Java\Presentacion\bin\Debug\AccesoDato.dll
+F:\Progamacion N capas - Java\Presentacion\bin\Debug\Entidades.pdb
+F:\Progamacion N capas - Java\Presentacion\bin\Debug\Negocio.pdb
+F:\Progamacion N capas - Java\Presentacion\bin\Debug\AccesoDato.pdb
+F:\Progamacion N capas - Java\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Progamacion N capas - Java\Presentacion\obj\x86\Debug\Presentacion.fAmigo.resources
+F:\Progamacion N capas - Java\Presentacion\obj\x86\Debug\Presentacion.fDistrito.resources
+F:\Progamacion N capas - Java\Presentacion\obj\x86\Debug\Presentacion.fMenu.resources
+F:\Progamacion N capas - Java\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+F:\Progamacion N capas - Java\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Progamacion N capas - Java\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Progamacion N capas - Java\Presentacion\bin\Debug\MySql.Data.dll
+F:\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.exe
+F:\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.pdb
+F:\Progamacion N capas - MySQL\Presentacion\bin\Debug\Presentacion.exe
+F:\Progamacion N capas - MySQL\Presentacion\bin\Debug\Presentacion.pdb
+F:\Progamacion N capas - MySQL\Presentacion\bin\Debug\Entidades.dll
+F:\Progamacion N capas - MySQL\Presentacion\bin\Debug\Negocio.dll
+F:\Progamacion N capas - MySQL\Presentacion\bin\Debug\SkinSoft.VisualStyler.dll
+F:\Progamacion N capas - MySQL\Presentacion\bin\Debug\AccesoDato.dll
+F:\Progamacion N capas - MySQL\Presentacion\bin\Debug\MySql.Data.dll
+F:\Progamacion N capas - MySQL\Presentacion\bin\Debug\Entidades.pdb
+F:\Progamacion N capas - MySQL\Presentacion\bin\Debug\Negocio.pdb
+F:\Progamacion N capas - MySQL\Presentacion\bin\Debug\AccesoDato.pdb
+F:\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+F:\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.fAmigo.resources
+F:\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.fDistrito.resources
+F:\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.fMenu.resources
+F:\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+F:\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\bin\Debug\SkinSoft.VisualStyler.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\bin\Debug\AccesoDato.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\bin\Debug\AccesoDato.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.fAmigo.resources
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.fDistrito.resources
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.fMenu.resources
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\SkinSoft.VisualStyler.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\AccesoDato.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\AccesoDato.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.fMenu.resources
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.fCliente.resources
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.fCategoria.resources
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\Presentacion.exe.manifest
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\bin\Debug\Presentacion.application
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.TrustInfo.xml
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.exe.manifest
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Presentacion\obj\x86\Debug\Presentacion.application
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\Presentacion.exe.manifest
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\Presentacion.application
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\SkinSoft.VisualStyler.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\AccesoDato.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\bin\Debug\AccesoDato.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.fCliente.resources
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.fCategoria.resources
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.fMenu.resources
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.TrustInfo.xml
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.exe.manifest
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Presentacion\obj\x86\Debug\Presentacion.application

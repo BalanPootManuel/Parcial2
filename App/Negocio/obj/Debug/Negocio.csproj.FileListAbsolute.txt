@@ -1,0 +1,59 @@
+F:\J4ckware\Negocio\bin\Debug\Negocio.dll
+F:\J4ckware\Negocio\bin\Debug\Negocio.pdb
+F:\J4ckware\Negocio\bin\Debug\AccesoDato.dll
+F:\J4ckware\Negocio\bin\Debug\Entidades.dll
+F:\J4ckware\Negocio\bin\Debug\AccesoDato.pdb
+F:\J4ckware\Negocio\bin\Debug\Entidades.pdb
+F:\J4ckware\Negocio\obj\Debug\ResolveAssemblyReference.cache
+F:\J4ckware\Negocio\obj\Debug\Negocio.dll
+F:\J4ckware\Negocio\obj\Debug\Negocio.pdb
+F:\Progamacion N capas - Java\Negocio\bin\Debug\Negocio.dll
+F:\Progamacion N capas - Java\Negocio\bin\Debug\Negocio.pdb
+F:\Progamacion N capas - Java\Negocio\bin\Debug\AccesoDato.dll
+F:\Progamacion N capas - Java\Negocio\bin\Debug\Entidades.dll
+F:\Progamacion N capas - Java\Negocio\bin\Debug\AccesoDato.pdb
+F:\Progamacion N capas - Java\Negocio\bin\Debug\Entidades.pdb
+F:\Progamacion N capas - Java\Negocio\obj\Debug\ResolveAssemblyReference.cache
+F:\Progamacion N capas - Java\Negocio\obj\Debug\Negocio.dll
+F:\Progamacion N capas - Java\Negocio\obj\Debug\Negocio.pdb
+F:\Progamacion N capas - Java\Negocio\bin\Debug\MySql.Data.dll
+F:\Progamacion N capas - MySQL\Negocio\bin\Debug\Negocio.dll
+F:\Progamacion N capas - MySQL\Negocio\bin\Debug\Negocio.pdb
+F:\Progamacion N capas - MySQL\Negocio\bin\Debug\AccesoDato.dll
+F:\Progamacion N capas - MySQL\Negocio\bin\Debug\Entidades.dll
+F:\Progamacion N capas - MySQL\Negocio\bin\Debug\MySql.Data.dll
+F:\Progamacion N capas - MySQL\Negocio\bin\Debug\AccesoDato.pdb
+F:\Progamacion N capas - MySQL\Negocio\bin\Debug\Entidades.pdb
+F:\Progamacion N capas - MySQL\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\Progamacion N capas - MySQL\Negocio\obj\Debug\Negocio.dll
+F:\Progamacion N capas - MySQL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Negocio\bin\Debug\Negocio.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Negocio\bin\Debug\AccesoDato.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Negocio\bin\Debug\Entidades.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Negocio\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Negocio\bin\Debug\AccesoDato.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Negocio\obj\Debug\Negocio.dll
+C:\Users\Manuel\Documents\Asignatura\TI51\DESARROLLO DE AP III\Progamacion N capas - MySQL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Negocio\bin\Debug\Negocio.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Negocio\bin\Debug\AccesoDato.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Negocio\bin\Debug\Entidades.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Negocio\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Negocio\bin\Debug\AccesoDato.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Negocio\obj\Debug\Negocio.dll
+C:\Users\Manuel\Pictures\Progamacion N capas - MySQL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Negocio\bin\Debug\Negocio.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Negocio\bin\Debug\AccesoDato.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Negocio\bin\Debug\Entidades.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Negocio\bin\Debug\MySql.Data.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Negocio\bin\Debug\AccesoDato.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Negocio\obj\Debug\Negocio.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\App\Negocio\obj\Debug\Negocio.pdb
